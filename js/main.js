@@ -43,6 +43,13 @@ $(function(){
 				settings: {
 					arrows: false
 				}
+			},
+
+			{
+				breakpoint: 1440,
+				settings: {
+					arrows: false
+				}
 			}
 		]
 	});
